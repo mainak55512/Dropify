@@ -1,0 +1,16 @@
+{
+  "name": "dropify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mainak55512",
+  "license": "ISC",
+  "dependencies": {
+    "dialog-node": "^0.2.1",
+    "hound": "^1.0.5",
+    "nodemailer": "^6.9.9"
+  }
+}
